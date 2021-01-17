@@ -50,11 +50,11 @@ $ python3 social-distance-yolo.py
 
 **Frame 10 to 500:**
 
-| ![outputimage](/images/data/frame 10.jpg) | ![outputimage](/images/data/frame 100.jpg) | ![outputimage](/images/data/frame 200.jpg) |
+| ![outputimage](/images/data/frame10.jpg) | ![outputimage](/images/data/frame100.jpg) | ![outputimage](/images/data/frame200.jpg) |
 | :-----------------------------------------: | :------------------------------------------: | :------------------------------------------: |
 |                **FRAME 10**                 |                **FRAME 100**                 |                **FRAME 200**                 |
 
-| ![outputimage](/images/data/frame 300.jpg) | ![outputimage](/images/data/frame 400.jpg) | ![outputimage](/images/data/frame 500.jpg) |
+| ![outputimage](/images/data/frame300.jpg) | ![outputimage](/images/data/frame400.jpg) | ![outputimage](/images/data/frame500.jpg) |
 | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
 |                **FRAME 300**                 |                **FRAME 400**                 |                **FRAME 500**                 |
 
