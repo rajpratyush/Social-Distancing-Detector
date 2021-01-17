@@ -93,6 +93,9 @@ $ python3 social-distance-yolo.py
 MegaPixels: Origins, Ethics, and Privacy Implications of Publicly Available Face Recognition Image Datasets </br>
 [![Oxford TownCentre](https://img.shields.io/badge/Oxford_Town_Centre-URL-yellowgreen)](https://megapixels.cc/)
 
+## 🧐 Code of Conduct
+You can find our Code of Conduct [here](https://github.com/rajpratyush/Social-Distancing-Detector/blob/main/CODE_OF_CONDUCT.md).
+
 ## ❤️ Thanks to our awesome contributors ✨✨
 <table>
   <tr>
