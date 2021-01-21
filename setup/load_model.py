@@ -3,8 +3,8 @@ import numpy as np
 import os 
 
 foldersPath = "utils/model/"
-weightsPath = os.path.join(os.getcwd(), foldersPath, "yolov3.weights")
-cfgPath = os.path.join(os.getcwd(), foldersPath, "yolov3.cfg")
+weightsPath = os.path.join(os.getcwd(), foldersPath, "yolov4.weights")
+cfgPath = os.path.join(os.getcwd(), foldersPath, "yolov4.cfg")
 coco_namePath = os.path.join(os.getcwd(), "utils/", "coco.names")
 
 def loading_dependencies():

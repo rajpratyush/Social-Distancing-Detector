@@ -1,7 +1,3 @@
-__author__ = "Afiq Harith"
-__email__ = "afiqharith05@gmail.com"
-__date__ = "09 Sep 2020"
-__status__ = "Development"
 
 import cv2
 import numpy as np
