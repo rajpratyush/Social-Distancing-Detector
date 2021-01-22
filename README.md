@@ -79,7 +79,7 @@ $ python3 social-distance-yolo.py
 | Features                                              | Status                                                                |
 | ----------------------------------------------------- | --------------------------------------------------------------------- |
 | Camera calibration for intrinsic parameter (distance) | ![STATUS](https://img.shields.io/badge/camera_calibration-TBD-orange) |
-| Add facemask detection                                | ![STATUS](https://img.shields.io/badge/facemask_detection-TBD-orange) |
+| Add facemask detection                                | ![STATUS](https://img.shields.io/badge/build-passed-brightgreen) |
 | upgrade to YOLO v4                                    | ![STATUS](https://img.shields.io/badge/model_upgrade-TBD-orange) |
 
 ---
