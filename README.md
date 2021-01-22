@@ -2,11 +2,11 @@
   <img src="images/SoDV.png">
 </div>
 
-# Social Distance Violation Detection (SoDV) using pre-trained YOLOv3 model ![SoDV](https://img.shields.io/badge/Build-v1.1-BLUE)
+# Social Distance Violation Detection (SoDV) using pre-trained YOLOv3 model ![SoDV](https://img.shields.io/badge/Build-v2.0-BLUE)
 
 COVID-19 social distancing detector using OpenCV, Deep Learning, and Computer Vision. OpenCV and deep learning can be used to implement a social distancing detector. Our configuration file used to keep our implementation neat and tidy. Our detect_people utility function, which detects people in video streams using the YOLO object detection. Our Python driver script, which glues all the pieces together into a full-fledged OpenCV social distancing detector. Apply object detection to detect all people (and only people) in a video stream (see this tutorial on building an OpenCV people counter). Compute the pairwise distances between all detected people. Based on these distances, check to see if any two people are less than N pixels apart.
 
-The initial idea of this project is to use MobileNet SSD with Caffe implementation as the person detection algorithm. [![FYP](https://img.shields.io/badge/Build-v2.0_pass-BRIGHTGREEN)](https://github.com/afiqharith/Social-Distancing-and-Safety-Violation-Alert-ROI-MobileNetSSD-FYP) In November 2020, I decided to further improve the detection algorithm by using YOLOv3 to increase the accuracy.
+The initial idea of this project is to use MobileNet SSD with Caffe implementation as the person detection algorithm. [![FYP](https://img.shields.io/badge/Build-v1.0_pass-BRIGHTGREEN)](https://github.com/afiqharith/Social-Distancing-and-Safety-Violation-Alert-ROI-MobileNetSSD-FYP) In November 2020, I decided to further improve the detection algorithm by using YOLOv3 to increase the accuracy.
 </br>
 
 Detect the social distance violations in real time using OpenCV and deep learning
